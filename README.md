@@ -1,4 +1,5 @@
 # LaplaceRandom
-Generating random variables that follow Laplace distribution.
-Input: Mean, scale, random numbe
-Output: Write laplace random numbers in laplaceRandom.txt
+***
+Generating random variables that follow Laplace distribution.<br>
+Input: Mean, scale, random numbe<br>
+Output: Write laplace random numbers in laplaceRandom.txt<br>
